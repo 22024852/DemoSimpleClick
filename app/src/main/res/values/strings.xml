@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoSimpleClick</string>
+    <string name="enter">Enter Something</string>
+    <string name="show">Display what the user enters</string>
+    <string name="fm">Female</string>
+    <string name="ml">Male</string>
+    <string name="enabled">enabled</string>
+    <string name="disabled">disabled</string>
+
+</resources>
